@@ -24,7 +24,7 @@
 </div>
 ---
 
-# YUKI BOT Whatsapp MD
+# Elaina Bot Whatsapp MD
 ## For Users Termux Install Module [here](https://github.com/Ilhamskhyzi/node_modules)
 ## Information
 > YUKI BOT whatsapp using a Baileys library.
@@ -42,7 +42,7 @@
 
 ## Tester Bot
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [Owner-YukiBot](https://wa.me/6288279268363)
+* Info Lebih Lanjut, Chat [Owner-YukiBot](https://wa.me/6282228302341)
 
 ## How To Change Menu Display
 ----
